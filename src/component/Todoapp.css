@@ -1,0 +1,53 @@
+.container {
+  background-color: rgb(97, 97, 245);
+  height: 400px;
+}
+.input {
+  height: 40px;
+  width: 99%;
+  border-radius: 8px;
+}
+.child {
+  width: 75%;
+  height: 75%;
+}
+.style {
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+}
+.button {
+  height: 40px;
+  width: 70px;
+  background-color: rgb(97, 97, 245);
+
+  margin-left: 90%;
+  border-radius: 8px;
+}
+.result_container {
+  height: 100px;
+}
+.btn {
+  height: 35px;
+  width: 80px;
+}
+.police {
+  margin-left: 10px;
+}
+.aline {
+  display: flex;
+}
+.barrer {
+  text-decoration: line-through;
+  margin-left: 20px;
+}
+.non-barrer {
+  text-decoration: none;
+  margin-left: 20px;
+}
+.style-title{
+    display: flex;
+    justify-content: center;
+    color: rgba(78, 89, 90, 0.596);
+    margin-top: 50px;
+}
